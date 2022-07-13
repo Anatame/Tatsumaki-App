@@ -1,0 +1,12 @@
+body{
+    background-color:#111111;
+    color: beige;
+}
+
+.latestRelease{
+    color:greenyellow; 
+}
+
+a{
+    color: rgba(59, 248, 255, 0.808);
+}
